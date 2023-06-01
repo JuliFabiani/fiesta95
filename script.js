@@ -4,7 +4,7 @@ window.addEventListener('DOMContentLoaded', function() {
   const image2 = document.getElementById('image2');
   
   const min = 1; // Inclusive
-  const max = 100; // Exclusive
+  const max = 719; // Exclusive
   
   let cycle = 0;
   let randomImages = [];
